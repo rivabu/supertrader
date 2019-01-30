@@ -1,0 +1,36 @@
+# Eclipse project #
+###################
+.metadata
+.classpath
+.project
+.settings/
+.tern-project
+
+# IntelliJ project #
+####################
+.idea/
+*.iml
+
+# OS generated files #
+######################
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# Other #
+######################
+node_modules
+dist
+.tmp
+.tmp_typescript
+.sass-cache
+bower_components
+build
+npm-debug.log
+testsupport
+testresults
+package-lock.json
